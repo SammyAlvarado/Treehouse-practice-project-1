@@ -1,1 +1,1 @@
-# Treehouse-practice-project-1
+# Treehouse Practice Project 1
